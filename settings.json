@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lapeacemc.play.hosting",
-    "port": 25955,
+    "ip": "x2server.aternos.me",
+    "port": 37238,
     "version": "",
     "try-creative": false
   },
