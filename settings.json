@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "x2server.aternos.me",
+    "ip": "v2x2server.aternos.me",
     "port": 37238,
     "version": "",
     "try-creative": false
